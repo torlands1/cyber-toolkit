@@ -7,9 +7,3 @@
 
 # Virus Lab (Educational UI )
 
-Terminal-style interface design for cybersecurity learning.
-
-
-git add README.md
-git commit -m "Add professional README"
-git push
